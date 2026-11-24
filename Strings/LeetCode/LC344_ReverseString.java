@@ -6,7 +6,7 @@
  * Space Complexity: O(1)
  */
 
-class Solution {
+public class LC344_ReverseString {
     public void reverseString(char[] s) {
 
         int left = 0;
