@@ -1,9 +1,10 @@
 package Strings.Practice;
 
-public class StringTraversal {
+class StringTraversal{
     public static void main(String args[]){
-        System.out.println("Java DSA Started");
-
+        String str="Minnu";
+        for(int i=0;i<str.length();i++){
+            System.out.println(str.charAt(i));
+        }
     }
-    
 }
